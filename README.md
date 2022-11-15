@@ -1,0 +1,1 @@
+Fiecare forma geometrica este definita de o clasa ce implementeaza interfata CalculP.
